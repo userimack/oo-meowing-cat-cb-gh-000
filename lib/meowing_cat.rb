@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat 
-  def initialize
+  def meow
     puts "meow!"
   end
   attr_accessor :cat 
